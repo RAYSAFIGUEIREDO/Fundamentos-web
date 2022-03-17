@@ -1,0 +1,53 @@
+# Fundamentos-web
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<ul>
+  <li>
+    <a href="index.html">Home</a>
+  
+  </li>
+  <li>
+    <a href="contato.html">contato</a>
+  
+  </li>
+</ul>
+
+  <h1>Sobre Raysa</h1
+
+  <p style="font size:25px ;">
+  
+<h2>meu video predileto</h2>
+
+<iframe
+ width="560"
+  height="315" 
+  src="https://www.youtube.com/embed/jhatqbNMU5U" 
+  title="YouTube video player"
+   frameborder="4"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    ></iframe>
+
+  <p class="center">
+  Mussum Ipsum, cacilds vidis litro abertis. 
+  Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.
+  Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.
+  Interagi no mé, cursus quis, vehicula ac nisi.
+</p>
+<p class="center">
+  Quem manda na minha terra sou euzis!
+  Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+  Viva Forevis aptent taciti sociosqu ad litora torquent.Diuretics paradis num copo é motivis de denguis.
+  </p>
+<img src="file:///C:/Users/RaysaFiigueiredo/Pictures/Saved%20Pictures/271535370_2454368951363598_370669338766936353_n.jpg" alt="Foto do criador dessa pagina! " width="20%" height="20%">
+
+</body>
+</html>
