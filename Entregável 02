@@ -11,18 +11,43 @@
 <body>
 <ul>
   <li>
-    <a href="index.html">Home</a>
+    <a href="Home.html">Home</a><p>
+
+    </p>
+    <a href="contato.html">Contato</a>
   
   </li>
-  <li>
-    <a href="contato.html">contato</a>
+</ul>
+<h1 class="center">Sobre a Raysa</h1>
+<div class="container">
+<div>
+  <p class="center">
+    Mussum Ipsum, cacilds vidis litro abertis. 
+    Praesent vel viverra nisi. Mauris aliquet nunc non
+     turpis scelerisque, eget.
+    Si num tem leite então bota uma pinga aí cumpadi!
+    Suco de cevadiss deixa as 
+    pessoas mais interessantis.
+    Interagi no mé, cursus quis, vehicula ac nisi.
+  </p>
+  <p class="center">
+    Quem manda na minha terra sou euzis!
+    Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+    Viva Forevis aptent taciti sociosqu ad litora
+     torquent.Diuretics paradis num copo é motivis de denguis.
+    </p>
+</div>
+
+<div>
+  <img src="file:///C:/Users/RaysaFiigueiredo/Pictures/Saved%20Pictures/271535370_2454368951363598_370669338766936353_n.jpg" 
+  alt="Foto do criador dessa pagina! " winth="60" height="90">
+</div>
+
+</div>
   
   </li>
 </ul>
 
-  <h1>Sobre Raysa</h1
-
-  <p style="font size:25px ;">
   
 <h2>meu video predileto</h2>
 
@@ -35,19 +60,3 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen
     ></iframe>
-
-  <p class="center">
-  Mussum Ipsum, cacilds vidis litro abertis. 
-  Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.
-  Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.
-  Interagi no mé, cursus quis, vehicula ac nisi.
-</p>
-<p class="center">
-  Quem manda na minha terra sou euzis!
-  Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
-  Viva Forevis aptent taciti sociosqu ad litora torquent.Diuretics paradis num copo é motivis de denguis.
-  </p>
-<img src="file:///C:/Users/RaysaFiigueiredo/Pictures/Saved%20Pictures/271535370_2454368951363598_370669338766936353_n.jpg" alt="Foto do criador dessa pagina! " width="20%" height="20%">
-
-</body>
-</html>
